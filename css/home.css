@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Caveat|Fugaz+One&display=swap');
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#greeting1 {
+    font-family: 'Carter One', cursive;
+    font-size: 60px;
+    margin-left: 40vw;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    color: #C62E65;
+}
+
+#greeting2 {
+    font-family: 'Carter One', cursive;
+    font-size: 60px;
+    margin-left: 51vw;
+    color: #495867;
+}
+
+
+/* #instalogo {
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+#maillogo {
+    display: inline-block;
+    float: right;
+} */
+
+#logo {
+    display: inline-block;
+    margin-left: 75vw;
+    /* border-style: groove;
+    border-color: #20A39E;
+    border-radius: 10px;
+    border-width: 10px;
+    padding: 10px; */
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+    color: #231651;
+    font-weight: 600;
+}
+
+#sadu1 {
+    width: 300px;
+    float: right;
+    margin: 40px;
+    border-style: groove;
+    border-color: #4DCCBD;
+    border-width: 20px;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.intro {
+    margin-left: 60px;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    width: 100px;
+    height: 200px;
+    padding: 10px
+}
+
+
+/* #dot {
+    width: 20px;
+    height: 20px;
+    margin: 50px auto;
+    position: relative;
+    border-radius: 50%;
+    background: red;
+    animation-name: translate;
+    animation-duration: 1s;
+    animation-iteration-count: 100;
+}
+
+@keyframes translate {
+    0% {
+        top: 50px;
+        left: 10px;
+    }
+    50% {
+        top: 50px;
+        left: 100px;
+    }
+    100% {
+        top: 50px;
+        left: 10px;
+    }
+} */

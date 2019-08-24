@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Caveat|Fugaz+One&display=swap');
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url('/images/about.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#crapQuote {
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+}
